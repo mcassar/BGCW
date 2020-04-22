@@ -1,2 +1,2 @@
 # BGCW
-BattleGroup Cold war alternate rules/house rules lists
+BattleGroup Cold war alternate rules/house rules and lists
